@@ -21,5 +21,6 @@ pip2 install -r requirements.txt
 
 python2 messenger.py
 ### Contact us:
-[!Instagram]https://img.shields.io/badge/Instagram-malik__atiquz__.zaman-red)](www.instagram.com/malik_atiquz_.zaman)
 
+
+[![Instagram](https://img.shields.io/badge/Instagram-malik__atiquz__.zaman-blue)](www.instagram.com/malik_atiquz_.zaman)
