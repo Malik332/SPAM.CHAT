@@ -19,3 +19,5 @@ cd Spamchat
 pip2 install -r requirements.txt
 
 python2 messenger.py
+### Contact us:
+
